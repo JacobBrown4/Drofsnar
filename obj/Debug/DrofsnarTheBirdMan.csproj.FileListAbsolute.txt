@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\bin\Debug\DrofsnarTheBirdMan.pdb
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.exe
+C:\ElevenFiftyProjects\DotNetProjects\Challenges\DrofsnarTheBirdMan\obj\Debug\DrofsnarTheBirdMan.pdb
